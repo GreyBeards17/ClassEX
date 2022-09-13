@@ -14,7 +14,7 @@
 
 //function learnToCode(student = "someone") {
    // if (language === "JavaScript") {
-   //     "Good Luck!"
+   //     console.log("Good Luck!")
    // } else {
    //    console.log("Have you tried JavaScript") 
    // }
